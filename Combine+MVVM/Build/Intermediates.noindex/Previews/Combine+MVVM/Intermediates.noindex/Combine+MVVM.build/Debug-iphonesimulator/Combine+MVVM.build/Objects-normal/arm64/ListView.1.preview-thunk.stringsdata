@@ -1,0 +1,20 @@
+{
+  "source": "/Users/fazilp/SwiftUI-Project/Furniture-Shop/CombineFrameWork/Combine-Framework/Untitled/Combine+MVVM/Build/Intermediates.noindex/Previews/Combine+MVVM/Intermediates.noindex/Combine+MVVM.build/Debug-iphonesimulator/Combine+MVVM.build/Objects-normal/arm64/ListView.1.preview-thunk.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "",
+        "key": "Name: %@"
+      },
+      {
+        "comment": "",
+        "key": "Email: %@"
+      },
+      {
+        "comment": "",
+        "key": "Company: %@"
+      }
+    ]
+  },
+  "version": 1
+}

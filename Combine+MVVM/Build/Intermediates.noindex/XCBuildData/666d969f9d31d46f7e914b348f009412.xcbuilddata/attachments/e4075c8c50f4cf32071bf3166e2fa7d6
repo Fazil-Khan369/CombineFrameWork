@@ -1,0 +1,68 @@
+{
+  "" : {
+    "diagnostics" : "/Users/fazilp/SwiftUI-Project/Furniture-Shop/CombineFrameWork/Combine-Framework/Untitled/Combine+MVVM/Build/Intermediates.noindex/Combine+MVVM.build/Debug-iphonesimulator/Combine+MVVM.build/Objects-normal/arm64/Combine+MVVM-master.dia",
+    "emit-module-dependencies" : "/Users/fazilp/SwiftUI-Project/Furniture-Shop/CombineFrameWork/Combine-Framework/Untitled/Combine+MVVM/Build/Intermediates.noindex/Combine+MVVM.build/Debug-iphonesimulator/Combine+MVVM.build/Objects-normal/arm64/Combine+MVVM-master-emit-module.d",
+    "emit-module-diagnostics" : "/Users/fazilp/SwiftUI-Project/Furniture-Shop/CombineFrameWork/Combine-Framework/Untitled/Combine+MVVM/Build/Intermediates.noindex/Combine+MVVM.build/Debug-iphonesimulator/Combine+MVVM.build/Objects-normal/arm64/Combine+MVVM-master-emit-module.dia",
+    "swift-dependencies" : "/Users/fazilp/SwiftUI-Project/Furniture-Shop/CombineFrameWork/Combine-Framework/Untitled/Combine+MVVM/Build/Intermediates.noindex/Combine+MVVM.build/Debug-iphonesimulator/Combine+MVVM.build/Objects-normal/arm64/Combine+MVVM-master.swiftdeps"
+  },
+  "/Users/fazilp/SwiftUI-Project/Furniture-Shop/CombineFrameWork/Combine-Framework/Untitled/Combine+MVVM/Build/Intermediates.noindex/Combine+MVVM.build/Debug-iphonesimulator/Combine+MVVM.build/DerivedSources/GeneratedAssetSymbols.swift" : {
+    "const-values" : "/Users/fazilp/SwiftUI-Project/Furniture-Shop/CombineFrameWork/Combine-Framework/Untitled/Combine+MVVM/Build/Intermediates.noindex/Combine+MVVM.build/Debug-iphonesimulator/Combine+MVVM.build/Objects-normal/arm64/GeneratedAssetSymbols.swiftconstvalues",
+    "dependencies" : "/Users/fazilp/SwiftUI-Project/Furniture-Shop/CombineFrameWork/Combine-Framework/Untitled/Combine+MVVM/Build/Intermediates.noindex/Combine+MVVM.build/Debug-iphonesimulator/Combine+MVVM.build/Objects-normal/arm64/GeneratedAssetSymbols.d",
+    "diagnostics" : "/Users/fazilp/SwiftUI-Project/Furniture-Shop/CombineFrameWork/Combine-Framework/Untitled/Combine+MVVM/Build/Intermediates.noindex/Combine+MVVM.build/Debug-iphonesimulator/Combine+MVVM.build/Objects-normal/arm64/GeneratedAssetSymbols.dia",
+    "index-unit-output-path" : "/Combine+MVVM.build/Debug-iphonesimulator/Combine+MVVM.build/Objects-normal/arm64/GeneratedAssetSymbols.o",
+    "llvm-bc" : "/Users/fazilp/SwiftUI-Project/Furniture-Shop/CombineFrameWork/Combine-Framework/Untitled/Combine+MVVM/Build/Intermediates.noindex/Combine+MVVM.build/Debug-iphonesimulator/Combine+MVVM.build/Objects-normal/arm64/GeneratedAssetSymbols.bc",
+    "object" : "/Users/fazilp/SwiftUI-Project/Furniture-Shop/CombineFrameWork/Combine-Framework/Untitled/Combine+MVVM/Build/Intermediates.noindex/Combine+MVVM.build/Debug-iphonesimulator/Combine+MVVM.build/Objects-normal/arm64/GeneratedAssetSymbols.o",
+    "swift-dependencies" : "/Users/fazilp/SwiftUI-Project/Furniture-Shop/CombineFrameWork/Combine-Framework/Untitled/Combine+MVVM/Build/Intermediates.noindex/Combine+MVVM.build/Debug-iphonesimulator/Combine+MVVM.build/Objects-normal/arm64/GeneratedAssetSymbols.swiftdeps",
+    "swiftmodule" : "/Users/fazilp/SwiftUI-Project/Furniture-Shop/CombineFrameWork/Combine-Framework/Untitled/Combine+MVVM/Build/Intermediates.noindex/Combine+MVVM.build/Debug-iphonesimulator/Combine+MVVM.build/Objects-normal/arm64/GeneratedAssetSymbols~partial.swiftmodule"
+  },
+  "/Users/fazilp/SwiftUI-Project/Furniture-Shop/CombineFrameWork/Combine-Framework/Untitled/Combine+MVVM/Combine+MVVM/Combine_MVVMApp.swift" : {
+    "const-values" : "/Users/fazilp/SwiftUI-Project/Furniture-Shop/CombineFrameWork/Combine-Framework/Untitled/Combine+MVVM/Build/Intermediates.noindex/Combine+MVVM.build/Debug-iphonesimulator/Combine+MVVM.build/Objects-normal/arm64/Combine_MVVMApp.swiftconstvalues",
+    "dependencies" : "/Users/fazilp/SwiftUI-Project/Furniture-Shop/CombineFrameWork/Combine-Framework/Untitled/Combine+MVVM/Build/Intermediates.noindex/Combine+MVVM.build/Debug-iphonesimulator/Combine+MVVM.build/Objects-normal/arm64/Combine_MVVMApp.d",
+    "diagnostics" : "/Users/fazilp/SwiftUI-Project/Furniture-Shop/CombineFrameWork/Combine-Framework/Untitled/Combine+MVVM/Build/Intermediates.noindex/Combine+MVVM.build/Debug-iphonesimulator/Combine+MVVM.build/Objects-normal/arm64/Combine_MVVMApp.dia",
+    "index-unit-output-path" : "/Combine+MVVM.build/Debug-iphonesimulator/Combine+MVVM.build/Objects-normal/arm64/Combine_MVVMApp.o",
+    "llvm-bc" : "/Users/fazilp/SwiftUI-Project/Furniture-Shop/CombineFrameWork/Combine-Framework/Untitled/Combine+MVVM/Build/Intermediates.noindex/Combine+MVVM.build/Debug-iphonesimulator/Combine+MVVM.build/Objects-normal/arm64/Combine_MVVMApp.bc",
+    "object" : "/Users/fazilp/SwiftUI-Project/Furniture-Shop/CombineFrameWork/Combine-Framework/Untitled/Combine+MVVM/Build/Intermediates.noindex/Combine+MVVM.build/Debug-iphonesimulator/Combine+MVVM.build/Objects-normal/arm64/Combine_MVVMApp.o",
+    "swift-dependencies" : "/Users/fazilp/SwiftUI-Project/Furniture-Shop/CombineFrameWork/Combine-Framework/Untitled/Combine+MVVM/Build/Intermediates.noindex/Combine+MVVM.build/Debug-iphonesimulator/Combine+MVVM.build/Objects-normal/arm64/Combine_MVVMApp.swiftdeps",
+    "swiftmodule" : "/Users/fazilp/SwiftUI-Project/Furniture-Shop/CombineFrameWork/Combine-Framework/Untitled/Combine+MVVM/Build/Intermediates.noindex/Combine+MVVM.build/Debug-iphonesimulator/Combine+MVVM.build/Objects-normal/arm64/Combine_MVVMApp~partial.swiftmodule"
+  },
+  "/Users/fazilp/SwiftUI-Project/Furniture-Shop/CombineFrameWork/Combine-Framework/Untitled/Combine+MVVM/Combine+MVVM/Model/UserModel.swift" : {
+    "const-values" : "/Users/fazilp/SwiftUI-Project/Furniture-Shop/CombineFrameWork/Combine-Framework/Untitled/Combine+MVVM/Build/Intermediates.noindex/Combine+MVVM.build/Debug-iphonesimulator/Combine+MVVM.build/Objects-normal/arm64/UserModel.swiftconstvalues",
+    "dependencies" : "/Users/fazilp/SwiftUI-Project/Furniture-Shop/CombineFrameWork/Combine-Framework/Untitled/Combine+MVVM/Build/Intermediates.noindex/Combine+MVVM.build/Debug-iphonesimulator/Combine+MVVM.build/Objects-normal/arm64/UserModel.d",
+    "diagnostics" : "/Users/fazilp/SwiftUI-Project/Furniture-Shop/CombineFrameWork/Combine-Framework/Untitled/Combine+MVVM/Build/Intermediates.noindex/Combine+MVVM.build/Debug-iphonesimulator/Combine+MVVM.build/Objects-normal/arm64/UserModel.dia",
+    "index-unit-output-path" : "/Combine+MVVM.build/Debug-iphonesimulator/Combine+MVVM.build/Objects-normal/arm64/UserModel.o",
+    "llvm-bc" : "/Users/fazilp/SwiftUI-Project/Furniture-Shop/CombineFrameWork/Combine-Framework/Untitled/Combine+MVVM/Build/Intermediates.noindex/Combine+MVVM.build/Debug-iphonesimulator/Combine+MVVM.build/Objects-normal/arm64/UserModel.bc",
+    "object" : "/Users/fazilp/SwiftUI-Project/Furniture-Shop/CombineFrameWork/Combine-Framework/Untitled/Combine+MVVM/Build/Intermediates.noindex/Combine+MVVM.build/Debug-iphonesimulator/Combine+MVVM.build/Objects-normal/arm64/UserModel.o",
+    "swift-dependencies" : "/Users/fazilp/SwiftUI-Project/Furniture-Shop/CombineFrameWork/Combine-Framework/Untitled/Combine+MVVM/Build/Intermediates.noindex/Combine+MVVM.build/Debug-iphonesimulator/Combine+MVVM.build/Objects-normal/arm64/UserModel.swiftdeps",
+    "swiftmodule" : "/Users/fazilp/SwiftUI-Project/Furniture-Shop/CombineFrameWork/Combine-Framework/Untitled/Combine+MVVM/Build/Intermediates.noindex/Combine+MVVM.build/Debug-iphonesimulator/Combine+MVVM.build/Objects-normal/arm64/UserModel~partial.swiftmodule"
+  },
+  "/Users/fazilp/SwiftUI-Project/Furniture-Shop/CombineFrameWork/Combine-Framework/Untitled/Combine+MVVM/Combine+MVVM/ViewModel/UserViewModel.swift" : {
+    "const-values" : "/Users/fazilp/SwiftUI-Project/Furniture-Shop/CombineFrameWork/Combine-Framework/Untitled/Combine+MVVM/Build/Intermediates.noindex/Combine+MVVM.build/Debug-iphonesimulator/Combine+MVVM.build/Objects-normal/arm64/UserViewModel.swiftconstvalues",
+    "dependencies" : "/Users/fazilp/SwiftUI-Project/Furniture-Shop/CombineFrameWork/Combine-Framework/Untitled/Combine+MVVM/Build/Intermediates.noindex/Combine+MVVM.build/Debug-iphonesimulator/Combine+MVVM.build/Objects-normal/arm64/UserViewModel.d",
+    "diagnostics" : "/Users/fazilp/SwiftUI-Project/Furniture-Shop/CombineFrameWork/Combine-Framework/Untitled/Combine+MVVM/Build/Intermediates.noindex/Combine+MVVM.build/Debug-iphonesimulator/Combine+MVVM.build/Objects-normal/arm64/UserViewModel.dia",
+    "index-unit-output-path" : "/Combine+MVVM.build/Debug-iphonesimulator/Combine+MVVM.build/Objects-normal/arm64/UserViewModel.o",
+    "llvm-bc" : "/Users/fazilp/SwiftUI-Project/Furniture-Shop/CombineFrameWork/Combine-Framework/Untitled/Combine+MVVM/Build/Intermediates.noindex/Combine+MVVM.build/Debug-iphonesimulator/Combine+MVVM.build/Objects-normal/arm64/UserViewModel.bc",
+    "object" : "/Users/fazilp/SwiftUI-Project/Furniture-Shop/CombineFrameWork/Combine-Framework/Untitled/Combine+MVVM/Build/Intermediates.noindex/Combine+MVVM.build/Debug-iphonesimulator/Combine+MVVM.build/Objects-normal/arm64/UserViewModel.o",
+    "swift-dependencies" : "/Users/fazilp/SwiftUI-Project/Furniture-Shop/CombineFrameWork/Combine-Framework/Untitled/Combine+MVVM/Build/Intermediates.noindex/Combine+MVVM.build/Debug-iphonesimulator/Combine+MVVM.build/Objects-normal/arm64/UserViewModel.swiftdeps",
+    "swiftmodule" : "/Users/fazilp/SwiftUI-Project/Furniture-Shop/CombineFrameWork/Combine-Framework/Untitled/Combine+MVVM/Build/Intermediates.noindex/Combine+MVVM.build/Debug-iphonesimulator/Combine+MVVM.build/Objects-normal/arm64/UserViewModel~partial.swiftmodule"
+  },
+  "/Users/fazilp/SwiftUI-Project/Furniture-Shop/CombineFrameWork/Combine-Framework/Untitled/Combine+MVVM/Combine+MVVM/Views/ContentView.swift" : {
+    "const-values" : "/Users/fazilp/SwiftUI-Project/Furniture-Shop/CombineFrameWork/Combine-Framework/Untitled/Combine+MVVM/Build/Intermediates.noindex/Combine+MVVM.build/Debug-iphonesimulator/Combine+MVVM.build/Objects-normal/arm64/ContentView.swiftconstvalues",
+    "dependencies" : "/Users/fazilp/SwiftUI-Project/Furniture-Shop/CombineFrameWork/Combine-Framework/Untitled/Combine+MVVM/Build/Intermediates.noindex/Combine+MVVM.build/Debug-iphonesimulator/Combine+MVVM.build/Objects-normal/arm64/ContentView.d",
+    "diagnostics" : "/Users/fazilp/SwiftUI-Project/Furniture-Shop/CombineFrameWork/Combine-Framework/Untitled/Combine+MVVM/Build/Intermediates.noindex/Combine+MVVM.build/Debug-iphonesimulator/Combine+MVVM.build/Objects-normal/arm64/ContentView.dia",
+    "index-unit-output-path" : "/Combine+MVVM.build/Debug-iphonesimulator/Combine+MVVM.build/Objects-normal/arm64/ContentView.o",
+    "llvm-bc" : "/Users/fazilp/SwiftUI-Project/Furniture-Shop/CombineFrameWork/Combine-Framework/Untitled/Combine+MVVM/Build/Intermediates.noindex/Combine+MVVM.build/Debug-iphonesimulator/Combine+MVVM.build/Objects-normal/arm64/ContentView.bc",
+    "object" : "/Users/fazilp/SwiftUI-Project/Furniture-Shop/CombineFrameWork/Combine-Framework/Untitled/Combine+MVVM/Build/Intermediates.noindex/Combine+MVVM.build/Debug-iphonesimulator/Combine+MVVM.build/Objects-normal/arm64/ContentView.o",
+    "swift-dependencies" : "/Users/fazilp/SwiftUI-Project/Furniture-Shop/CombineFrameWork/Combine-Framework/Untitled/Combine+MVVM/Build/Intermediates.noindex/Combine+MVVM.build/Debug-iphonesimulator/Combine+MVVM.build/Objects-normal/arm64/ContentView.swiftdeps",
+    "swiftmodule" : "/Users/fazilp/SwiftUI-Project/Furniture-Shop/CombineFrameWork/Combine-Framework/Untitled/Combine+MVVM/Build/Intermediates.noindex/Combine+MVVM.build/Debug-iphonesimulator/Combine+MVVM.build/Objects-normal/arm64/ContentView~partial.swiftmodule"
+  },
+  "/Users/fazilp/SwiftUI-Project/Furniture-Shop/CombineFrameWork/Combine-Framework/Untitled/Combine+MVVM/Combine+MVVM/Views/ListView.swift" : {
+    "const-values" : "/Users/fazilp/SwiftUI-Project/Furniture-Shop/CombineFrameWork/Combine-Framework/Untitled/Combine+MVVM/Build/Intermediates.noindex/Combine+MVVM.build/Debug-iphonesimulator/Combine+MVVM.build/Objects-normal/arm64/ListView.swiftconstvalues",
+    "dependencies" : "/Users/fazilp/SwiftUI-Project/Furniture-Shop/CombineFrameWork/Combine-Framework/Untitled/Combine+MVVM/Build/Intermediates.noindex/Combine+MVVM.build/Debug-iphonesimulator/Combine+MVVM.build/Objects-normal/arm64/ListView.d",
+    "diagnostics" : "/Users/fazilp/SwiftUI-Project/Furniture-Shop/CombineFrameWork/Combine-Framework/Untitled/Combine+MVVM/Build/Intermediates.noindex/Combine+MVVM.build/Debug-iphonesimulator/Combine+MVVM.build/Objects-normal/arm64/ListView.dia",
+    "index-unit-output-path" : "/Combine+MVVM.build/Debug-iphonesimulator/Combine+MVVM.build/Objects-normal/arm64/ListView.o",
+    "llvm-bc" : "/Users/fazilp/SwiftUI-Project/Furniture-Shop/CombineFrameWork/Combine-Framework/Untitled/Combine+MVVM/Build/Intermediates.noindex/Combine+MVVM.build/Debug-iphonesimulator/Combine+MVVM.build/Objects-normal/arm64/ListView.bc",
+    "object" : "/Users/fazilp/SwiftUI-Project/Furniture-Shop/CombineFrameWork/Combine-Framework/Untitled/Combine+MVVM/Build/Intermediates.noindex/Combine+MVVM.build/Debug-iphonesimulator/Combine+MVVM.build/Objects-normal/arm64/ListView.o",
+    "swift-dependencies" : "/Users/fazilp/SwiftUI-Project/Furniture-Shop/CombineFrameWork/Combine-Framework/Untitled/Combine+MVVM/Build/Intermediates.noindex/Combine+MVVM.build/Debug-iphonesimulator/Combine+MVVM.build/Objects-normal/arm64/ListView.swiftdeps",
+    "swiftmodule" : "/Users/fazilp/SwiftUI-Project/Furniture-Shop/CombineFrameWork/Combine-Framework/Untitled/Combine+MVVM/Build/Intermediates.noindex/Combine+MVVM.build/Debug-iphonesimulator/Combine+MVVM.build/Objects-normal/arm64/ListView~partial.swiftmodule"
+  }
+}

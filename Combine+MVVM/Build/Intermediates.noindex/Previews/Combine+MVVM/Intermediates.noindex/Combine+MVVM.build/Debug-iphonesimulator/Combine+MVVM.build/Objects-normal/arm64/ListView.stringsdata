@@ -1,0 +1,20 @@
+{
+  "source": "/Users/fazilp/SwiftUI-Project/Furniture-Shop/CombineFrameWork/Combine-Framework/Untitled/Combine+MVVM/Combine+MVVM/Views/ListView.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "",
+        "key": "Name: %@"
+      },
+      {
+        "comment": "",
+        "key": "Email: %@"
+      },
+      {
+        "comment": "",
+        "key": "Company: %@"
+      }
+    ]
+  },
+  "version": 1
+}

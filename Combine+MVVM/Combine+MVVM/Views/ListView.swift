@@ -21,7 +21,7 @@ struct ListView: View {
         }
         .frame(maxWidth: .infinity, alignment: .leading)
         .padding()
-        .background(Color.gray.opacity(0.1), in: RoundedRectangle(cornerRadius: 10, style: .continuous))
+        .background(Color.orange.opacity(0.6), in: RoundedRectangle(cornerRadius: 10, style: .continuous))
         .padding(.horizontal, 4)
     }
 }

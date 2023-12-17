@@ -1,0 +1,63 @@
+{
+  "buildCommand" : {
+    "command" : "build",
+    "skipDependencies" : false,
+    "style" : "buildAndRun"
+  },
+  "configuredTargets" : [
+    {
+      "guid" : "2a799dd6b001bba4f9e28d29b9f49ab9cfed4c960734123caca2bbf1a87138aa"
+    }
+  ],
+  "containerPath" : "/Users/fazilp/SwiftUI-Project/Furniture-Shop/CombineFrameWork/Combine-Framework/Untitled/Combine+MVVM/Combine+MVVM.xcodeproj",
+  "continueBuildingAfterErrors" : false,
+  "enableIndexBuildArena" : false,
+  "hideShellScriptEnvironment" : false,
+  "parameters" : {
+    "action" : "build",
+    "activeArchitecture" : "arm64",
+    "activeRunDestination" : {
+      "disableOnlyActiveArch" : false,
+      "platform" : "iphonesimulator",
+      "sdk" : "iphonesimulator17.2",
+      "sdkVariant" : "iphonesimulator",
+      "supportedArchitectures" : [
+        "arm64",
+        "x86_64"
+      ],
+      "targetArchitecture" : "arm64"
+    },
+    "arenaInfo" : {
+      "buildIntermediatesPath" : "/Users/fazilp/SwiftUI-Project/Furniture-Shop/CombineFrameWork/Combine-Framework/Untitled/Combine+MVVM/Build/Intermediates.noindex",
+      "buildProductsPath" : "/Users/fazilp/SwiftUI-Project/Furniture-Shop/CombineFrameWork/Combine-Framework/Untitled/Combine+MVVM/Build/Products",
+      "derivedDataPath" : "/Users/fazilp/Library/Developer/Xcode/DerivedData",
+      "indexDataStoreFolderPath" : "/Users/fazilp/Library/Developer/Xcode/DerivedData/Combine+MVVM-dertlcduznqifbbybwkuvqffqzfe/Index.noindex/DataStore",
+      "indexEnableDataStore" : true,
+      "indexPCHPath" : "/Users/fazilp/Library/Developer/Xcode/DerivedData/Combine+MVVM-dertlcduznqifbbybwkuvqffqzfe/Index.noindex/PrecompiledHeaders",
+      "pchPath" : "/Users/fazilp/SwiftUI-Project/Furniture-Shop/CombineFrameWork/Combine-Framework/Untitled/Combine+MVVM/Build/Intermediates.noindex/PrecompiledHeaders"
+    },
+    "configurationName" : "Debug",
+    "overrides" : {
+      "synthesized" : {
+        "table" : {
+          "ASSETCATALOG_FILTER_FOR_DEVICE_MODEL" : "iPhone16,1",
+          "ASSETCATALOG_FILTER_FOR_DEVICE_OS_VERSION" : "17.0.1",
+          "ASSETCATALOG_FILTER_FOR_THINNING_DEVICE_CONFIGURATION" : "iPhone16,1",
+          "BUILD_ACTIVE_RESOURCES_ONLY" : "YES",
+          "ENABLE_PREVIEWS" : "NO",
+          "ENABLE_XOJIT_PREVIEWS" : "NO",
+          "TARGET_DEVICE_IDENTIFIER" : "77EB18D3-D728-4753-A3D8-20DACF5134D6",
+          "TARGET_DEVICE_MODEL" : "iPhone16,1",
+          "TARGET_DEVICE_OS_VERSION" : "17.0.1",
+          "TARGET_DEVICE_PLATFORM_NAME" : "iphonesimulator"
+        }
+      }
+    }
+  },
+  "schemeCommand" : "launch",
+  "showNonLoggedProgress" : true,
+  "useDryRun" : false,
+  "useImplicitDependencies" : true,
+  "useLegacyBuildLocations" : false,
+  "useParallelTargets" : true
+}
